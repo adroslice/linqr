@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "LinQR",
-  "version": "0.1",
+  "version": "1.0",
   "description": "Toggle to show QR codes for hovered links.",
   "permissions": ["tabs", "activeTab"],
   "browser_action": {
